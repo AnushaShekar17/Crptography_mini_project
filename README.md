@@ -1,1 +1,1 @@
-# Crptography_mini_project
+# PLAYFAIR_CIPHER_TEXT
